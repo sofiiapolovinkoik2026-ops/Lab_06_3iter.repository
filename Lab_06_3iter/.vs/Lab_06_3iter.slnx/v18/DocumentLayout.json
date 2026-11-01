@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\st\\AP\\06\\Lab_06_3\\Lab_06_3iter\\Lab_06_3iter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E492DD5-134C-9483-A1EE-C9DABA804943}|..\\UnitTest1\\UnitTest1.vcxproj|C:\\st\\AP\\06\\Lab_06_3\\Lab_06_3iter\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3E75E4-62E2-47AB-9AA1-E27A9B02819D}|Lab_06_3iter.vcxproj|C:\\st\\AP\\06\\Lab_06_3\\Lab_06_3iter\\Lab_06_3iter\\Lab_06_3iter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3E75E4-62E2-47AB-9AA1-E27A9B02819D}|Lab_06_3iter.vcxproj|solutionrelative:Lab_06_3iter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\st\\AP\\06\\Lab_06_3\\Lab_06_3iter\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\st\\AP\\06\\Lab_06_3\\Lab_06_3iter\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "..\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-01T21:42:29.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_06_3iter.cpp",
+              "DocumentMoniker": "C:\\st\\AP\\06\\Lab_06_3\\Lab_06_3iter\\Lab_06_3iter\\Lab_06_3iter.cpp",
+              "RelativeDocumentMoniker": "Lab_06_3iter.cpp",
+              "ToolTip": "C:\\st\\AP\\06\\Lab_06_3\\Lab_06_3iter\\Lab_06_3iter\\Lab_06_3iter.cpp",
+              "RelativeToolTip": "Lab_06_3iter.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-01T21:40:37.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
